@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/jquery-2.1.0-green)
 
 ## Description
-This project is a property rental portal web application where the user can register and log in, then he can add a new house if he wants to sell it or offer it for renting, otherwise he can search for available houses, and contact their owners. 
+This project is a property rental portal web application where the user can register and log in, then he can add a new house if he wants to sell it or offer it for renting, otherwise he can search for available houses, and contact their owners.
 
 ## Built With
 * [Moshi](https://github.com/square/moshi)
@@ -41,9 +41,15 @@ This project is a property rental portal web application where the user can regi
 >Contact us :
 ![](screenshots/5.png)
 
+>Add a new house :
+![](screenshots/6.png)
+
+>About :
+![](screenshots/7.png)
+
 ## How To Run
 
-+ Install Intellij IDEA IDE : https://www.jetbrains.com/idea
++ Install IntelliJ IDEA IDE : https://www.jetbrains.com/idea
 + Install JDK 8 : https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 + Install PostgreSQL : https://www.postgresql.org/
 + Create database tables (use the queries from the file database.sql) :
@@ -95,7 +101,7 @@ public class Settings {
 ```
 + Run the Back-End application (Main.java).
 
-+ Open the file index.html in the browser using Intellij IDEA IDE 
++ Open the file index.html in the browser using IntelliJ IDEA IDE
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit)
